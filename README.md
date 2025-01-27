@@ -25,7 +25,7 @@ Evaluación del modelo mediante métricas comunes como el R-cuadrado.
 
 - regresion_univariada_mtcars.ipynb: Cuaderno de Jupyter con el código completo y explicaciones paso a paso.
 
-- images/: (Opcional) Carpeta para guardar gráficos generados.
+- imagenes/: Carpeta para guardar gráficos generados.
 
 **Resultados Esperados**
 
